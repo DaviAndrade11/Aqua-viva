@@ -33,4 +33,4 @@ Como o sistema utiliza apenas bibliotecas nativas do próprio Python, não é ne
 1. Certifique-se de ter o **Python 3** instalado em seu computador.
 2. Clone este repositório ou faça o download dos arquivos:
    ```bash
-   git clone [https://github.com/](https://github.com/)[seu-usuario-github]/aqua-viva.git
+   git clone [https://github.com/](https://github.com/)[[seu-usuario-github](https://github.com/DaviAndrade11)]/aqua-viva.git
